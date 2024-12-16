@@ -173,7 +173,7 @@
             >
               <img
                 class="position-absolute w-100 h-100"
-                src="../assets/img/navyuniforms.jpg"
+                src="/assets/img/Army.jpg"
                 style="object-fit: cover"
               />
               <div
@@ -183,11 +183,14 @@
                   <h1
                     class="display-4 text-white mb-3 animate__animated animate__fadeInDown"
                   >
-                    Navy uniforms
+                    Army
                   </h1>
                   <p class="mx-md-5 px-5 animate__animated animate__bounceIn">
-                    Lorem rebum magna amet lorem magna erat diam stet. Sadips
-                    duo stet amet amet ndiam elitr ipsum diam
+                    Gear Up with Pride. Celebrate the strength and dedication of
+                    the Army with exclusive merchandise crafted for heroes and
+                    their supporters. From rugged outdoor essentials to stylish
+                    apparel, find everything you need to honor the commitment of
+                    our land defenders. Shop now and showcase your Army pride!
                   </p>
                   <a
                     class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp"
@@ -200,7 +203,7 @@
             <div class="carousel-item position-relative" style="height: 430px">
               <img
                 class="position-absolute w-100 h-100"
-                src="../assets/img/suniforms.jpg"
+                src="/assets/img/Navy.jpeg"
                 style="object-fit: cover"
               />
               <div
@@ -210,11 +213,15 @@
                   <h1
                     class="display-4 text-white mb-3 animate__animated animate__fadeInDown"
                   >
-                    Millitary uniforms
+                    Navy
                   </h1>
                   <p class="mx-md-5 px-5 animate__animated animate__bounceIn">
-                    Lorem rebum magna amet lorem magna erat diam stet. Sadips
-                    duo stet amet amet ndiam elitr ipsum diam
+                    Navigate Style and Function. Inspired by the courage and
+                    precision of the Navy, our collection brings maritime
+                    strength to your everyday life. From sleek accessories to
+                    practical gear, dive into products designed for sailors and
+                    sea enthusiasts alike. Discover your Navy-inspired
+                    essentials today!
                   </p>
                   <a
                     class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp"
@@ -227,7 +234,7 @@
             <div class="carousel-item position-relative" style="height: 430px">
               <img
                 class="position-absolute w-100 h-100"
-                src="../assets/img/cimages.jpg"
+                src="/assets/img/Air Force.jpg"
                 style="object-fit: cover"
               />
               <div
@@ -237,11 +244,14 @@
                   <h1
                     class="display-4 text-white mb-3 animate__animated animate__fadeInDown"
                   >
-                    Casual Fashion
+                    Air Force
                   </h1>
                   <p class="mx-md-5 px-5 animate__animated animate__bounceIn">
-                    Lorem rebum magna amet lorem magna erat diam stet. Sadips
-                    duo stet amet amet ndiam elitr ipsum diam
+                    Elevate Your Style. Soar to new heights with our Air
+                    Force-inspired collection. Whether you’re looking for bold
+                    apparel, tech gadgets, or unique keepsakes, our store has
+                    what you need to celebrate the innovation and excellence of
+                    our air guardians. Shop now to take flight in style!
                   </p>
                   <a
                     class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp"
@@ -256,18 +266,17 @@
       </div>
       <div class="col-lg-4">
         <div class="product-offer mb-30" style="height: 200px">
-          <img class="img-fluid" src="../assets/img/cimages.jpg" alt="" />
+          <img class="img-fluid" src="/assets/img/navyuniforms.jpg" alt="" />
           <div class="offer-text">
-            <h6 class="text-white text-uppercase">Save 20%</h6>
             <h3 class="text-white mb-3">Special Offer</h3>
             <a href="" class="btn btn-primary">Shop Now</a>
           </div>
         </div>
         <div class="product-offer mb-30" style="height: 200px">
-          <img class="img-fluid" src="../assets/img/product-2.jpg" alt="" />
+          <img class="img-fluid" src="/assets/img/suniforms.jpg" alt="" />
           <div class="offer-text">
-            <h6 class="text-white text-uppercase">Save 20%</h6>
-            <h3 class="text-white mb-3">Special Offer</h3>
+            <h6 class="text-white text-uppercase">Save 30%</h6>
+            <h3 class="text-white mb-3">Discount</h3>
             <a href="" class="btn btn-primary">Shop Now</a>
           </div>
         </div>
@@ -458,16 +467,13 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -500,16 +506,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+             
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -541,16 +545,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -582,16 +584,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -623,16 +623,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -664,16 +662,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -705,16 +701,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -746,16 +740,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -786,7 +778,7 @@
     <div class="row px-xl-5">
       <div class="col-md-6">
         <div class="product-offer mb-30" style="height: 300px">
-          <img class="img-fluid" src="../assets/img/cimages.jpg" alt="" />
+          <img class="img-fluid" src="../assets/img/navyuniforms.jpg" alt="" />
           <div class="offer-text">
             <h6 class="text-white text-uppercase">Save 20%</h6>
             <h3 class="text-white mb-3">Special Offer</h3>
@@ -796,10 +788,10 @@
       </div>
       <div class="col-md-6">
         <div class="product-offer mb-30" style="height: 300px">
-          <img class="img-fluid" src="../assets/img/product-2.jpg" alt="" />
+          <img class="img-fluid" src="../assets/img/suniforms.jpg" alt="" />
           <div class="offer-text">
-            <h6 class="text-white text-uppercase">Save 20%</h6>
-            <h3 class="text-white mb-3">Special Offer</h3>
+            <h6 class="text-white text-uppercase">Save 30%</h6>
+            <h3 class="text-white mb-3">Discount</h3>
             <a href="" class="btn btn-primary">Shop Now</a>
           </div>
         </div>
@@ -824,16 +816,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -865,16 +855,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -906,16 +894,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -947,16 +933,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -988,16 +972,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -1029,16 +1011,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -1070,16 +1050,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
@@ -1111,16 +1089,14 @@
             />
             <div class="product-action">
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-shopping-cart"></i
+                ><i class="fas fa-comment"></i
               ></a>
               <a class="btn btn-outline-dark btn-square" href=""
                 ><i class="far fa-heart"></i
               ></a>
+              
               <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-sync-alt"></i
-              ></a>
-              <a class="btn btn-outline-dark btn-square" href=""
-                ><i class="fa fa-search"></i
+                ><i class="fa far fa-eye"></i
               ></a>
             </div>
           </div>
