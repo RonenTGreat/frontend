@@ -63,7 +63,7 @@
               >
                 <img
                   class="position-absolute w-100 h-100"
-                  src="/assets/img/Navy.jpeg"
+                  src="/assets/img/Navy.jpg"
                   style="object-fit: cover"
                 />
                 <div
@@ -400,7 +400,7 @@
                 <small class="fa fa-star text-primary mr-1"></small>
                 <small class="fa fa-star text-primary mr-1"></small>
                 <small class="fa fa-star text-primary mr-1"></small>
-                <small class="fa fa-star-half-alt text-primary mr-1"></small>
+                <small class="fa fa-star-half-alt text-primary mr-1"></small>2
                 <small>(99)</small>
               </div>
             </div>
